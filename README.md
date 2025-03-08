@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there, I'm Diego Acosta!  
 
-<!--
-**Dycouzt/Dycouzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Aspiring Cybersecurity Professional | Software Engineering Student**  
+ Passionate about **Penetration Testing, Networking, Malware Analysis, and Cybersecurity**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  **Technical Skills**  
+ **Programming & Scripting:** Python, Bash, PowerShell  
+ **Cybersecurity & Pentesting:** Network Defense, Nmap, Kali Linux, Metasploit, Wireshark, SIEM, EDRs  
+ **Cloud & DevSecOps:** Cloud Security, CI/CD, Application Security  
+ **Methodologies & Frameworks:** Agile Methodology, Threat Modeling  
+ 
+---
+
+*Committed to learning, hacking ethically, and defending the cyber world!*
