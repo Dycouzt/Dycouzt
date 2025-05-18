@@ -1,6 +1,6 @@
 # Diego Acosta
 
- **Cybersecurity Engineer**  
+ **Software Engineer, And Asiring Cybersecurity Professional**  
 
 *Committed to learning, hacking ethically, and defending the cyber world*
 
