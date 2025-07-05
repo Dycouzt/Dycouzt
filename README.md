@@ -20,11 +20,7 @@
 ###
 
 ## Connect with me 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/dieacost" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/dieacost" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-###
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dieacost.png)](https://tryhackme.com/p/dieacost)
