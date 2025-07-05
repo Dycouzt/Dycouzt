@@ -23,10 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="height:40px; vertical-align:middle;" alt="jira logo" />
   <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" style="height:40px; vertical-align:middle;" alt="kubernetes logo" />
-  <span style="display:inline-block; width:12px;"></span>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fterraform&psig=AOvVaw0uYeWs2VN3SHUlsjBBJHfR&ust=1751841020018000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjf28Dipo4DFQAAAAAdAAAAABAE)" style="height:40px; vertical-align:middle;" alt="terraform logo" />
-  <span style="display:inline-block; width:12px;"></span>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fletslearnabout.net%2Fhacking%2Ffrom-zero-to-hero%2Fday-054-metasploit-introduction%2F&psig=AOvVaw3HoauTl9qE1JF5jHJtmy7m&ust=1751841058692000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCso9Tipo4DFQAAAAAdAAAAABAn)" style="height:40px; vertical-align:middle;" alt="metasploit logo" />
 </div>
 
 ###
