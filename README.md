@@ -23,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="height:40px; vertical-align:middle;" alt="jira logo" />
   <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" style="height:40px; vertical-align:middle;" alt="kubernetes logo" />
+  <span style="display:inline-block; width:12px;"></span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="height:40px; vertical-align:middle;" alt="terraform logo" />
 </div>
 
 ###
