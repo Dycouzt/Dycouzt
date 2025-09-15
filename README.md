@@ -1,6 +1,6 @@
 # Diego Acosta
 
-**Software Engineer Student, Aspiring Cybersecurity Professional**  
+**Software Engineer Student, Aspiring DevSecOps Professional**  
 
 *Committed to learning, hacking ethically, and defending the cyber world*
 
