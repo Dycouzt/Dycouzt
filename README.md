@@ -1,7 +1,7 @@
 # Diego Acosta
-### DevOps & MLOps Engineer
+### DevOps/Infrastructure Engineer
 
-Third-year Software Engineering Student specializing in DevOps & MLOps driven by a passion for automation and system efficiency. My project experience is centered on eliminating manual toil and accelerating delivery cycles by building intelligent, self-healing CI/CD and CI/CT pipelines. I specialize in using Infrastructure as Code, Kubernetes, and proactive security scanning to create resilient, "shift-left" environments.
+Software Engineering graduate focused on DevOps, cloud infrastructure, and platform engineering. I build reliable systems with AWS, Terraform, Kubernetes, and CI/CD, with a strong focus on Agentic AI, multi-agent infrastructure and a long-term path toward Infrastructure Solutions Architecture.
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,git,gitlab,docker,kubernetes,terraform,ansible,aws,gcp,prometheus,grafana)](https://skillicons.dev)
 
